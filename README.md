@@ -1,5 +1,5 @@
 # BBDM method
-This repository contains the simulation process of the Behavior-based decision making (BBDM) method presented in the paper entitled "Behavior-Based Decision Making: A Tutorial" published by Springer in December 2018.
+This repository contains the simulation process of the behavior-based decision making (BBDM) method presented in the paper entitled "Behavior-Based Decision Making: A Tutorial" published by Springer in December 2018.
 <br/>
 <br/>
 ## Elements
